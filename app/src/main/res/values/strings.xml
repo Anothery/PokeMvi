@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PokeMvi</string>
+    <string name="berries_title">Berries</string>
+    <string name="navigation_go_back">Go back</string>
+    <string name="berries_nothing_to_show">Nothing to show</string>
+    <string name="categories_nothing_to_show">Nothing to show</string>
 </resources>
